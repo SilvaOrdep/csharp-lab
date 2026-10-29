@@ -1,0 +1,15 @@
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/bin/Debug/net10.0/basic-csharp
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/bin/Debug/net10.0/basic-csharp.deps.json
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/bin/Debug/net10.0/basic-csharp.runtimeconfig.json
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/bin/Debug/net10.0/basic-csharp.dll
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/bin/Debug/net10.0/basic-csharp.pdb
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.AssemblyInfoInputs.cache
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.AssemblyInfo.cs
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.csproj.CoreCompileInputs.cache
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.dll
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/refint/basic-csharp.dll
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.pdb
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.genruntimeconfig.cache
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/ref/basic-csharp.dll
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/bin/Debug/net10.0/SystemFiles/SourceFile.csv
