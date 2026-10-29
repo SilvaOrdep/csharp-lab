@@ -13,3 +13,4 @@
 /home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.genruntimeconfig.cache
 /home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/ref/basic-csharp.dll
 /home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/bin/Debug/net10.0/SystemFiles/SourceFile.csv
+/home/ordep/Documentos/dev projects/csharp/csharp-lab/basic-csharp/basic-csharp/obj/Debug/net10.0/basic-csharp.sourcelink.json
